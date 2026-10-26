@@ -103,3 +103,4 @@ By contributing, you agree that your contributions will be licensed under the [M
 If you have questions, open an issue or contact the maintainer via GitHub.
 
 Thank you for contributing to SecurityMind! 🚀
+Creators: Jitendar Singh and Mayank Sekhar
